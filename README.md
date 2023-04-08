@@ -3,7 +3,7 @@
 <br>
 👋 Hi, it's your favorite #emailgeeks happy to be here!<br> <b>@ayshamariezouain</b> Miami native with roots 🇩🇴🇪🇸🇱🇧 & <b>@Ro_Santander</b> respresenting 🇲🇽.<br><br>
 Code and design was collaborated on and written by: <br> <br>
-💌 <b>Aysha Marie Zouain</b> aka <b>@ayshamariezouain</b><br>  
+💌 <b>Aysha Marie Zouain</b> aka <b>@ayshamariezouain</b> and <b>@blackenedhonesty</b><br>  
 LinkedIn: https://www.linkedin.com/in/ayshamariezouain/<br>
 GitHub: https://github.com/ayshamariezouain <br>
 Portfolio: http://www.blackenedonesty.com/ <br> <br> 
