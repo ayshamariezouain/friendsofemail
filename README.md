@@ -1,6 +1,5 @@
 # friendsofemail <br>
 Notes from the Dev Interview & Tutotrial: <br>
-Aysha Marie Zouain & Rodrigo Daniel García Santander
 <br>
 Welcome or bienvenidos! 
 Code and design was collaborated on and written by: 
