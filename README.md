@@ -1,7 +1,7 @@
 # friendsofemail <br>
 Notes from the Dev Interview & Tutotrial: <br>
 <br>
-👋 Hi, it's <b>@ayshamariezouain</b> Miami native with roots 🇩🇴🇪🇸🇱🇧 & <b>@Ro_Santander</b> respresenting 🇲🇽.<br>
+👋 Hi, it's your favorite #emailgeeks happy to be here! <b>@ayshamariezouain</b> Miami native with roots 🇩🇴🇪🇸🇱🇧 & <b>@Ro_Santander</b> respresenting 🇲🇽.
 Code and design was collaborated on and written by: <br> <br>
 <b>Aysha Marie Zouain</b><br>  
 LinkedIn: https://www.linkedin.com/in/ayshamariezouain/<br>
