@@ -11,7 +11,7 @@ Portfolio: http://www.blackenedonesty.com/ <br> <br>
 LinkedIn: https://www.linkedin.com/in/rodrigo-santander/<br> 
 Website: https://friendsofemail.com/<br>  
 Here are the basics below for everyone to enjoy, from the Salesforce support page links on personalization strings and even this Github repo link we created so everyone can enjoy.<br>  
-Shown on the tutuorial is <b>@Ro_Santander's</b> code from 01-05.
+Shown on the tutuorial is <b>@Ro_Santander's</b> code from HTML files <b>01 to 05</b>.
 The other version is <b>@ayshamariezouain's</b> on <b>07 - catchall_response_getlucky</b>.
            
 				
