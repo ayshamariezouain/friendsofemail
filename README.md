@@ -1,6 +1,8 @@
-# friendsofemail - Notes from the Dev Interview & Tutotrial
+# friendsofemail <br>
+Notes from the Dev Interview & Tutotrial: Aysha Marie Zouain & Rodrigo Daniel García Santander
 <br>
-Welcome or bienvenidos! Code and design was collaborated on and written by: 
+Welcome or bienvenidos! 
+Code and design was collaborated on and written by: 
 <b>Aysha Marie Zouain</b><br><br>    
 LinkedIn: https://www.linkedin.com/in/ayshamariezouain/<br>
 GitHub: https://github.com/ayshamariezouain <br>
